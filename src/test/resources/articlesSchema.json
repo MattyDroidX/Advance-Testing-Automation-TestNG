@@ -28,13 +28,10 @@
           "title": {
             "type": "string"
           },
-          "pdf": {
-            "type": "string"
-          },
           "body": {
             "type": "string"
           },
-          "book_id": {
+          "article_id": {
             "type": "integer"
           }
         },
